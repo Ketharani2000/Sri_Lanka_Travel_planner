@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+streamlit
+faiss-cpu
+tiktoken
+requests
+langchain-community
+python-dotenv
+langchain-mistralai
