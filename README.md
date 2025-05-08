@@ -23,4 +23,8 @@ A intelligent travel recommendation system for Sri Lanka using:
 1. Clone the repository:
    ```bash
    https://github.com/Ketharani2000/Sri_Lanka_Travel_planner
+   cd back_end
+
+## 🎥 Demo
+![Demo Video](demo_compressed.mp4)
    
